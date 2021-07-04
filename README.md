@@ -25,12 +25,6 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Python-Scripting-L1B/master/images/screenshot.jpg" alt="TopGear-Python-Scripting-L1B Demo" style="width:100%">
-  <br/>
-  <figcaption>TopGear-Python-Scripting-L1B Screenshot</figcaption>
-</figure>
-
 </div>
 
 ## Inspiration
